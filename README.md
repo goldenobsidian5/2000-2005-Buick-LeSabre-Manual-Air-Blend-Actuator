@@ -1,4 +1,4 @@
-# 2000-2005-Buick-LeSabre-Manual-Air-Blend-Actuator
+# 2000-2005 Buick LeSabre Manual Air Blend Actuator
 3d-printable modification for the cabin air conditioning system for the Buick LeSabre (years 2000 - 2005). Replaces the automatic computer controlled air blend door actuator with a manual lever.
 
 So far I've only done the driver side.
@@ -52,6 +52,9 @@ Usage:
 Gravity will naturally push the mechanism towards the "Cold" position. This is why there are dovetails to keep the lever in place with the help of gravity. To adjust, free the handle from the dovetail, turn it to the desired temperature, then re-secure.
 For hot air, move the lever down.
 For cold air, move the lever up.
+
+A demo of how the components will move:
+https://youtube.com/shorts/TcRUgjRJ4LY?
 
 If the tiny dovetail joints slip and the door is free to rotate, the Cold position is the (for me) what my vehicle falls back to. To prevent the dovetail joint from slipping, an aidditional ziptie can be secured around both the lever handle and the 3 rigid levers on the `base.stl` to ensure that your heat is guaranteed to work during the winter. Alternatively, you can omit that ziptie, and if your suspension hasn't rusted out too much yet, the mechanism will reliably stay in place if not kicked. This is especially useful during Spring and Fall, when it's cold in the morning and hot in the afternoon, because the temperature adjustment lever can be reached from the driver's chair while the vehicle is not in motion.
 If the dovetail joints break, superglue may work to repair it, or you can still use the ziptie method. Perhaps a rubber band for sustainability.
