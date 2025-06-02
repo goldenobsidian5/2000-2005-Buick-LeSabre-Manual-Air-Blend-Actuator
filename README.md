@@ -54,13 +54,13 @@ For hot air, move the lever down.
 For cold air, move the lever up.
 
 A demo of how the components will move:
-https://youtube.com/shorts/TcRUgjRJ4LY?
+https://youtube.com/shorts/TcRUgjRJ4LY
 
 If the tiny dovetail joints slip and the door is free to rotate, the Cold position is the (for me) what my vehicle falls back to. To prevent the dovetail joint from slipping, an aidditional ziptie can be secured around both the lever handle and the 3 rigid levers on the `base.stl` to ensure that your heat is guaranteed to work during the winter. Alternatively, you can omit that ziptie, and if your suspension hasn't rusted out too much yet, the mechanism will reliably stay in place if not kicked. This is especially useful during Spring and Fall, when it's cold in the morning and hot in the afternoon, because the temperature adjustment lever can be reached from the driver's chair while the vehicle is not in motion.
 If the dovetail joints break, superglue may work to repair it, or you can still use the ziptie method. Perhaps a rubber band for sustainability.
 
 The Air Blend Door Actuator:
-![transpurple100](https://github.com/user-attachments/assets/76245b0b-92ae-435e-9b5f-f82346f6540c)
+![Actuator](https://github.com/user-attachments/assets/8eb230c6-63cc-4188-bef8-a850cb24fcd3)
 
 The finished product, installed and in the top "Cold" position:
 ![Zoomed in](https://github.com/user-attachments/assets/10a9d825-9148-40a0-96b2-55d14ad71843)
