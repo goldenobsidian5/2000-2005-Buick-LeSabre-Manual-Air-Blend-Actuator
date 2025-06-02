@@ -31,12 +31,15 @@ The rightmost component is what will attach to the Air Blend Door Knob inside th
 The "top" side of this mechanism is on the right of the images, as it lays on it's side.
 
 Cold (60°F):
+
 ![Cold air](https://github.com/user-attachments/assets/509864ff-276a-4aec-baca-f5ad1b1e467b)
 
 Medium:
+
 ![Medium air](https://github.com/user-attachments/assets/6975f752-4f5a-40f5-a843-ae95530c0a96)
 
 Hot (90°F):
+
 ![Hot air](https://github.com/user-attachments/assets/04dce315-278d-4859-9a42-dfdb36c186ec)
 
 
@@ -50,22 +53,28 @@ Driver side:
 
 Usage:
 Gravity will naturally push the mechanism towards the "Cold" position. This is why there are dovetails to keep the lever in place with the help of gravity. To adjust, free the handle from the dovetail, turn it to the desired temperature, then re-secure.
+
 For hot air, move the lever down.
+
 For cold air, move the lever up.
 
 A demo of how the components will move:
+
 https://youtube.com/shorts/TcRUgjRJ4LY
 
 If the tiny dovetail joints slip and the door is free to rotate, the Cold position is the (for me) what my vehicle falls back to. To prevent the dovetail joint from slipping, an aidditional ziptie can be secured around both the lever handle and the 3 rigid levers on the `base.stl` to ensure that your heat is guaranteed to work during the winter. Alternatively, you can omit that ziptie, and if your suspension hasn't rusted out too much yet, the mechanism will reliably stay in place if not kicked. This is especially useful during Spring and Fall, when it's cold in the morning and hot in the afternoon, because the temperature adjustment lever can be reached from the driver's chair while the vehicle is not in motion.
 If the dovetail joints break, superglue may work to repair it, or you can still use the ziptie method. Perhaps a rubber band for sustainability.
 
 The Air Blend Door Actuator:
+
 ![Actuator](https://github.com/user-attachments/assets/8eb230c6-63cc-4188-bef8-a850cb24fcd3)
 
 The finished product, installed and in the top "Cold" position:
+
 ![Zoomed in](https://github.com/user-attachments/assets/10a9d825-9148-40a0-96b2-55d14ad71843)
 
 A zoomed out view. It's harder to see the mechanism, but this shows an overall relative view of where everything sits. The camera is on the driver floorboard, looking up and to the right:
+
 ![Zoomed out](https://github.com/user-attachments/assets/4212a940-bf58-4f05-8c4b-014694dbe75a)
 
 
