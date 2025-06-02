@@ -57,7 +57,7 @@ If the tiny dovetail joints slip and the door is free to rotate, the Cold positi
 If the dovetail joints break, superglue may work to repair it, or you can still use the ziptie method. Perhaps a rubber band for sustainability.
 
 The Air Blend Door Actuator:
-![image](https://github.com/user-attachments/assets/517a4138-2f0c-4595-89c5-7e7318045ee5)
+![transpurple100](https://github.com/user-attachments/assets/76245b0b-92ae-435e-9b5f-f82346f6540c)
 
 The finished product, installed and in the top "Cold" position:
 ![Zoomed in](https://github.com/user-attachments/assets/10a9d825-9148-40a0-96b2-55d14ad71843)
